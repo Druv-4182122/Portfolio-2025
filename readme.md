@@ -2,6 +2,26 @@
 
 A stunning 3D interactive portfolio website built with React Three Fiber, showcasing creative projects through immersive 3D experiences.
 
+## 🌐 Live Demo
+
+🚀 **[View Live Demo](https://your-portfolio-url.vercel.app)**
+
+*Experience the interactive 3D portfolio in your browser!*
+
+## 📸 Screenshots
+
+### Main Portfolio View
+![Portfolio Main View](public/img/portfolio-main.png)
+
+### Interactive 3D Room
+![3D Room Environment](public/img/portfolio-room.png)
+
+### Coffee Smoke Effects
+![Coffee Smoke Animation](public/img/coffee-smoke.png)
+
+### Mobile Responsive
+![Mobile View](public/img/portfolio-mobile.png)
+
 ## 🚀 Features
 
 - **Interactive 3D Environment**: Explore a virtual room with interactive elements
@@ -16,6 +36,7 @@ A stunning 3D interactive portfolio website built with React Three Fiber, showca
 
 - **Frontend**: React 19, React Three Fiber
 - **3D Graphics**: Three.js, React Three Drei
+- **3D Modeling**: Blender
 - **Animations**: GSAP
 - **Shaders**: Custom GLSL shaders
 - **Build Tool**: Vite
