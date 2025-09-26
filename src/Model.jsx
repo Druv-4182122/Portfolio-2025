@@ -998,7 +998,7 @@ export default function Model({ controlsRef, hasUserInteracted, shouldAutoPlayAu
 
     // Rotate fan objects continuously
     fanObjects.current.forEach((fan) => {
-      fan.rotation.y += 0.069
+      fan.rotation.y += 0.1
     })
   })
 
