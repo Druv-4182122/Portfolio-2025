@@ -4,30 +4,22 @@ A stunning 3D interactive portfolio website built with React Three Fiber, showca
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Demo](https://your-portfolio-url.vercel.app)**
+🚀 **[View Live Demo](https://druv-nagpal.vercel.app/)**
 
 *Experience the interactive 3D portfolio in your browser!*
 
 ## 📸 Screenshots
 
-### Main Portfolio View
-![Portfolio Main View](public/img/portfolio-main.png)
-
-### Interactive 3D Room
-![3D Room Environment](public/img/portfolio-room.png)
-
-### Coffee Smoke Effects
-![Coffee Smoke Animation](public/img/coffee-smoke.png)
-
-### Mobile Responsive
-![Mobile View](public/img/portfolio-mobile.png)
+![Portfolio Main View](public/img/ss1.png)
+![3D Room Environment](public/img/ss2.png)
+![Coffee Smoke Animation](public/img/ss3.png)
+![Coffee Smoke Animation](public/img/ss4.png)
 
 ## 🚀 Features
 
 - **Interactive 3D Environment**: Explore a virtual room with interactive elements
 - **Smooth Animations**: Powered by GSAP for fluid transitions
 - **Modern Tech Stack**: React 19, Three.js, Vite
-- **Responsive Design**: Optimized for all devices
 - **Coffee Smoke Effects**: Custom GLSL shaders for realistic particle effects
 - **Loading Screen**: Engaging loading experience
 - **Optimized Assets**: WebP images and compressed 3D models
@@ -102,7 +94,6 @@ npm run deploy
 - **Interactive Room Model**: 3D room environment with clickable objects
 - **Coffee Smoke Effect**: Realistic particle system using custom shaders
 - **Loading Screen**: Smooth loading experience with progress indication
-- **Responsive 3D Canvas**: Adapts to different screen sizes
 
 ## 🚀 Deployment
 
@@ -140,6 +131,12 @@ npm run deploy
 
 **Druv**
 - GitHub: [@Druv-4182122](https://github.com/Druv-4182122)
+
+## 🎵 Credits
+
+**Inspired by**: Andrew Woan
+
+**Music by**: ZEDD x VALORANT Music Theme
 
 ---
 
