@@ -6,15 +6,15 @@ import { CoffeeSmoke } from "./CoffeeSmoke"
 import gsap from "gsap"
 
 const textureMap = {
-  First: "Squooshed/Final_FirstTexture.webp",
-  Second: "Squooshed/Final_Second_Texture.webp",
-  Third: "Squooshed/ThirdTexture.webp",
-  Fourth: "Squooshed/Fourth_Texture.webp",
-  Outside: "Squooshed/Outside.webp",
-  Sixth: "Squooshed/SixthTexture_Final.webp",
-  Seven: "Squooshed/Seventh.webp",
-  Eighth: "Squooshed/Eighth.webp",
-  AboutMe: "img/about_me3.png",
+  First: "/Squooshed/Final_FirstTexture.webp",
+  Second: "/Squooshed/Final_Second_Texture.webp",
+  Third: "/Squooshed/ThirdTexture.webp",
+  Fourth: "/Squooshed/Fourth_Texture.webp",
+  Outside: "/Squooshed/Outside.webp",
+  Sixth: "/Squooshed/SixthTexture_Final.webp",
+  Seven: "/Squooshed/Seventh.webp",
+  Eighth: "/Squooshed/Eighth.webp",
+  AboutMe: "/img/about_me3.png",
 }
 
 const socialLinks = {
