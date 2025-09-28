@@ -22,7 +22,7 @@ const socialLinks = {
   github: "https://github.com/Druv-4182122",
   Threejs: "https://threejs-journey.com/certificate/view/15155",
   Luffy: "https://drive.google.com/file/d/1PIZh0LnVV4e7hdPr55YhotOcyEIZcGMg/view",
-  CV: "https://drive.google.com/file/d/13xgGxe340S5AkLR2ya71CG5aiN5qr3IO/view?usp=sharing", 
+  CV: "https://drive.google.com/file/d/1YDDwOf6cixiGQ80FvhZQKEgL8zprvQVW/view?usp=sharing", 
   Project1: "https://sunnyday-beta.vercel.app/",
   Project2: "https://funhouse-alpha.vercel.app/",
   Project3: "https://hauntedscene.vercel.app/"
