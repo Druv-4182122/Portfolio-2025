@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from "react"
 import { Canvas, useThree } from "@react-three/fiber"
 import { OrbitControls, useProgress } from "@react-three/drei"
-import Model from "./Model"
+import Model from "./ModelRefactored"
 import LoadingScreen from "./LoadingScreen"
 
 function Controls({ controlsRef }) {

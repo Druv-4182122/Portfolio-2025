@@ -263,6 +263,7 @@ export default function LoadingScreen({ progress, onComplete }) {
         padding: "0 20px"
       }}>
         <p>💡 Tip: Use mouse to orbit around the 3D scene once loaded</p>
+        <p>⚡ View on Desktop for the better experience</p>
       </div>
     </div>
     </>
